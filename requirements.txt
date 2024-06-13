@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+phidata
+pgvector
+pypdf
+psycopg[binary]
+sqlalchemy
+phidata[aws]
+openai
